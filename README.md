@@ -1,4 +1,4 @@
-# GarnishCocktailRecipes
+# Garnish Cocktail Recipes
 Mobile App with a database of 400+ different cocktail recipes
 - Has no ads
 - It has a custom filter to search cocktails by ingredients or their name

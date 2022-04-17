@@ -9,4 +9,4 @@ Hope you liked it :)
 This app is available in Google Play:
 https://play.google.com/store/apps/details?id=com.garnish.cocktailrecipes
 
-![Alt text](banner_final_final.png?raw=true "Garnish Cocktail Recipes")
+![Alt text](preview.png?raw=true "Garnish Cocktail Recipes")
